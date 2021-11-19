@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "streambuf": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp"
+    },
+    "editor.mouseWheelZoom": true,
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.autocompleteAddParentheses": true
+}
